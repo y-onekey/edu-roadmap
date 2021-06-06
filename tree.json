@@ -1,0 +1,304 @@
+{
+    "name": "python",
+    "_children": [{
+        "name": "1.Desktop apps",
+        "_children": [{
+            "name": "2.DataBase (база данных)",
+            "_children": [{
+                "name": "Sqlite3",
+                "size": 3938,
+                "_children": [
+                    {"name": "1.Основы SQL",
+                    "_children": [
+                        {
+                            "name": "1.Создание базы данных"
+                        },
+                        {
+                            "name": "2.Создание таблицы"
+                        },
+                        {
+                            "name": "3.Вставка записей"
+                        },
+                        {
+                            "name": "4.Обновление и удаление записей"
+                        },
+                        {
+                            "name": "5.Изменение структуры таблицы"
+                        },
+                        {
+                            "name": "6.Выбор записей"
+                        },
+                        {
+                            "name": "7.Выбор записей из нескольких таблиц"
+                        },
+                        {
+                            "name": "8.Where and Having"
+                        },
+                        {
+                            "name": "9.Индексы"
+                        },
+                        {
+                            "name": "10.Вложенные запросы"
+                        },
+                        {
+                            "name": "11.Транзакции"
+                        },
+                        {
+                            "name": "12.Удаление таблицы и базы данных"
+                        }
+                    ]},
+                    {
+                        "name": "2.Доступ к базе данных из Python",
+                        "_children": [
+                            {
+                                "name": "01.Создание и открытие базы данных"
+                            },
+                            {
+                                "name": "02.Выполнение запросов"
+                            },
+                            {
+                                "name": "03.Обработка результатов запроса"
+                            },
+                            {
+                                "name": "04.Управление транзакциями"
+                            },
+                            {
+                                "name": "05.Создание пользовательской сортировки"
+                            },
+                            {
+                                "name": "06.Поиск без учета регистра символов"
+                            },
+                            {
+                                "name": "07.Создание агрегатных функций"
+                            },
+                            {
+                                "name": "08.Преобразование типов данных"
+                            },
+                            {
+                                "name": "09.Сохранение в таблице даты и времени"
+                            },
+                            {
+                                "name": "10.Обработка исключений"
+                            },
+                            {
+                                "name": "11.Трассировка выполняемых запросов"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "3.Доступ к базе данных из PyQt",
+                        "_children":[
+                            {
+                                "name": "01.Соединение с базой данных"
+                            },
+                            {
+                                "name": "02.Получение сведений о структуре таблицы",
+                                "_children": [
+                                    {
+                                        "name": "01.Получение сведений о таблице"
+                                    },
+                                    {
+                                        "name": "02.Получение сведений об отдельном поле"
+                                    },
+                                    {
+                                        "name": "03.Получение сведений об индексе"
+                                    },
+                                    {
+                                        "name": "04.Получение сведений об ошибке"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "03.Выполнение SQL запросов и получение из результатов",
+                                "_children": [
+                                    {
+                                        "name": "01.Выполнение запросов"
+                                    },
+                                    {
+                                        "name": "02.Обработка резульатов выполнения запросов"
+                                    },
+                                    {
+                                        "name": "03.Очистка запросов"
+                                    },
+                                    {
+                                        "name": "04.Получение служебных сведений о запросе"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "04.Модели, связанные с данными",
+                                "_children": [
+                                    {
+                                        "name": "01.Модель, связанные с SQL запросом"
+                                    },
+                                    {
+                                        "name": "02.Модель, связанные с таблицей"
+                                    },
+                                    {
+                                        "name": "03.Модель, поддерживающая межтабличные связи"
+                                    },
+                                    {
+                                        "name": "04.Использование связанных делегатов"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+            ]
+            }, {
+                "name": "MySQL",
+                "size": 3812
+            }, {
+                "name": "PostgreSQL",
+                "size": 6714
+            }, {
+                "name": "MS SQL",
+                "size": 743
+            }, {
+                "name": "others",
+                "size": 743
+            }
+        ]
+        }, {
+            "name": "1.PyQt (приложения на Windows, MacOS, Linux)",
+            "_children": [{
+                "name": "1.Основы PyQt",
+                "size": 3534
+            }, {
+                "name": "2.Проект - Family Docs Scan",
+                "size": 5731
+            }]
+        }]
+    }, {
+        "name": "2.PyGame (разработка игр)"
+    }, {
+        "name": "3.Автоматизация рутинных задач",
+        "_children":[{
+            "name": "1.Работа с Excel",
+            "size": 2165
+        },
+        {
+            "name": "2.Работа с Word, PDF",
+            "size": 2165
+        }]
+    }, {
+        "name": "4.Визуализация данных"
+    },
+
+        {
+        "name": "5.Web Based apps (веб приложения)",
+        "_children": [{
+            "name": "5.Django",
+            "_children": [
+                {
+                    "name": "Project on Django - Posts"
+                },
+                {
+                    "name": "Project on Django - E-commerce (интернет магазин)"
+                },
+                {
+                "name": "Django, only backEnd",
+                "_children":[
+                    {
+                        "name": "django rest framework"
+                    },
+                    {
+                        "name": "django rest framework jwt"
+                    },
+                    {
+                        "name": "Project on django rest framework 1 - Posts"
+                    },
+                    {
+                        "name": "Project on django rest framework 2 - Geo Turkmenistan"
+                    }
+                ]
+                
+            }]
+        }, {
+            "name": "4.DataBase",
+            "size": 1759
+        }, {
+            "name": "1.HTML",
+            "size": 2165
+        }, {
+            "name": "2.CSS",
+            "_children":[
+                {
+                    "name": "1.Bootstrap CSS"
+                },
+                {
+                    "name": "2.TailWind CSS"
+                },
+                {
+                    "name": "3.Materialize CSS"
+                }
+            ]
+        }, {
+            "name": "3.JavaScript",
+            "_children":[
+                {
+                    "name": "1.EcmaScript2015<"
+                },
+                {
+                    "name": "2.Bootstrap JS"
+                },
+                {
+                    "name": "3.ESLint and Prettier"
+                },
+                {
+                    "name": "4.OOP - объектно-ориентированное програмирование"
+                }
+                ,
+                {
+                    "name": "5.React JS",
+                    "_children": [
+                        {
+                            "name": "1.Основы React JS"
+                        },
+                        {
+                            "name": "2.React Router"
+                        },
+                        {
+                            "name": "3.OOP in React JS"
+                        },
+                        {
+                            "name": "4.CSS in JS"
+                        },
+                        {
+                            "name": "5.React Hooks"
+                        },
+                        {
+                            "name": "6.Material UI"
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "name": "6.Linux",
+        "_children":[
+            {
+                "name": "1.Install Linux distro on VM (virual machine)"
+            },
+            {
+                "name": "2.Making ready for working with python3"
+            },
+            {
+                "name": "3.Making ready for working with geo apps"
+            }
+        ]
+    },
+    {
+        "name": "7.Работа в команде",
+        "_children": [
+            {
+                "name": "GIT"
+            },
+            {
+                "name": "SCRUM"
+            }
+        ]
+    }
+]
+}
